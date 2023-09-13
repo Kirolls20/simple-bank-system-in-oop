@@ -24,3 +24,5 @@ To run the bank system locally, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/simple-bank-system.git
+## NOTE 
+### this project work only in command line or terminal.
